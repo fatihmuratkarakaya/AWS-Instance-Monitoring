@@ -4,7 +4,7 @@ This AWS Lambda function monitors EC2 instances across different regions and sen
 
 ## Prerequisites
 
-- Node.js (version X.X.X)
+- Node.js (version 18.X)
 - `aws-sdk` package
 
 ## Setup
@@ -48,5 +48,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Make sure to replace X.X.X with the appropriate version number of Node.js in the "Prerequisites" section.
